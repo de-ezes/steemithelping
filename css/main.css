@@ -1,0 +1,55 @@
+h1 {
+    background-color: gold;
+	font-size: 80px;
+	font-weight: normal;
+	letter-spacing: 10px;
+	word-spacing: 7px;
+	border-top-width: 30px;
+	border: 5px solid black;
+}
+
+h2{
+	font-size: 50px;
+	font-weight: normal;
+	letter-spacing: 10px;
+	word-spacing: 5px;
+
+}
+p{
+	font-size: 20px;
+	font-weight: normal;
+
+}
+ul{
+	font-size: 20px;
+	font-weight: normal;
+
+}
+
+body {
+    background-color: white;
+}
+div{
+	background-color: silver;
+}
+a:link, a:visited {
+    background-color: magenta;
+    color: white;
+    padding: 7px 15px;
+    text-align: left;	
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: black;
+}
+div.one{
+    border: 3px solid black;
+    background-color: magenta;
+    padding-top: 2px;
+	letter-spacing: 7px;
+	word-spacing: 10px;
+}
+div.two{
+	background-color: white;
+}
